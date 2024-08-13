@@ -1,0 +1,570 @@
+{
+  "stationsList": [
+    {
+      "id": "947c5390-e806-494c-843f-0bbab96e79af",
+      "name": "Podebrady",
+      "x": 250.0,
+      "y": 180.0
+    },
+    {
+      "id": "78f03a6a-c1e7-4a48-b184-4e8e0a38f2b0",
+      "name": "Nymburk",
+      "x": 210.0,
+      "y": 225.0
+    },
+    {
+      "id": "eca075bb-54fc-444a-9738-84f42a5ea12e",
+      "name": "Kutna hora",
+      "x": 456.0,
+      "y": 380.0
+    },
+    {
+      "id": "7550b83f-4a4b-44f0-a912-2e77bfd68cfd",
+      "name": "Kolin",
+      "x": 400.0,
+      "y": 280.0
+    },
+    {
+      "id": "7fba4d9b-dc5a-464e-a2c0-b8be3fbaf396",
+      "name": "Kutna hora mesto",
+      "x": 451.0,
+      "y": 350.0
+    },
+    {
+      "id": "fc01f1f2-491b-43d6-a47e-fb0b0d85812c",
+      "name": "Lysa Nad Labem",
+      "x": 108.0,
+      "y": 300.0
+    },
+    {
+      "id": "59d0dd7c-514e-4696-9361-80e1a0b87f11",
+      "name": "Praha Hl.n",
+      "x": 50.0,
+      "y": 287.0
+    },
+    {
+      "id": "dd6c988c-1bf2-48c0-b999-577a2d50dbbb",
+      "name": "Prerov Nad Labem",
+      "x": 108.0,
+      "y": 365.0
+    },
+    {
+      "id": "e9221307-805a-4ea9-9987-8226ea4c3c67",
+      "name": "Caslav",
+      "x": 564.0,
+      "y": 322.0
+    }
+  ],
+  "edgesList": [
+    {
+      "from": {
+        "id": "947c5390-e806-494c-843f-0bbab96e79af",
+        "name": "Podebrady",
+        "x": 250.0,
+        "y": 180.0
+      },
+      "to": {
+        "id": "78f03a6a-c1e7-4a48-b184-4e8e0a38f2b0",
+        "name": "Nymburk",
+        "x": 210.0,
+        "y": 225.0
+      },
+      "cost": 60.207972893961475
+    },
+    {
+      "from": {
+        "id": "78f03a6a-c1e7-4a48-b184-4e8e0a38f2b0",
+        "name": "Nymburk",
+        "x": 210.0,
+        "y": 225.0
+      },
+      "to": {
+        "id": "947c5390-e806-494c-843f-0bbab96e79af",
+        "name": "Podebrady",
+        "x": 250.0,
+        "y": 180.0
+      },
+      "cost": 60.207972893961475
+    },
+    {
+      "from": {
+        "id": "78f03a6a-c1e7-4a48-b184-4e8e0a38f2b0",
+        "name": "Nymburk",
+        "x": 210.0,
+        "y": 225.0
+      },
+      "to": {
+        "id": "947c5390-e806-494c-843f-0bbab96e79af",
+        "name": "Podebrady",
+        "x": 250.0,
+        "y": 180.0
+      },
+      "cost": 60.207972893961475
+    },
+    {
+      "from": {
+        "id": "947c5390-e806-494c-843f-0bbab96e79af",
+        "name": "Podebrady",
+        "x": 250.0,
+        "y": 180.0
+      },
+      "to": {
+        "id": "78f03a6a-c1e7-4a48-b184-4e8e0a38f2b0",
+        "name": "Nymburk",
+        "x": 210.0,
+        "y": 225.0
+      },
+      "cost": 60.207972893961475
+    },
+    {
+      "from": {
+        "id": "947c5390-e806-494c-843f-0bbab96e79af",
+        "name": "Podebrady",
+        "x": 250.0,
+        "y": 180.0
+      },
+      "to": {
+        "id": "7550b83f-4a4b-44f0-a912-2e77bfd68cfd",
+        "name": "Kolin",
+        "x": 400.0,
+        "y": 280.0
+      },
+      "cost": 180.27756377319946
+    },
+    {
+      "from": {
+        "id": "7550b83f-4a4b-44f0-a912-2e77bfd68cfd",
+        "name": "Kolin",
+        "x": 400.0,
+        "y": 280.0
+      },
+      "to": {
+        "id": "947c5390-e806-494c-843f-0bbab96e79af",
+        "name": "Podebrady",
+        "x": 250.0,
+        "y": 180.0
+      },
+      "cost": 180.27756377319946
+    },
+    {
+      "from": {
+        "id": "7550b83f-4a4b-44f0-a912-2e77bfd68cfd",
+        "name": "Kolin",
+        "x": 400.0,
+        "y": 280.0
+      },
+      "to": {
+        "id": "947c5390-e806-494c-843f-0bbab96e79af",
+        "name": "Podebrady",
+        "x": 250.0,
+        "y": 180.0
+      },
+      "cost": 180.27756377319946
+    },
+    {
+      "from": {
+        "id": "947c5390-e806-494c-843f-0bbab96e79af",
+        "name": "Podebrady",
+        "x": 250.0,
+        "y": 180.0
+      },
+      "to": {
+        "id": "7550b83f-4a4b-44f0-a912-2e77bfd68cfd",
+        "name": "Kolin",
+        "x": 400.0,
+        "y": 280.0
+      },
+      "cost": 180.27756377319946
+    },
+    {
+      "from": {
+        "id": "7550b83f-4a4b-44f0-a912-2e77bfd68cfd",
+        "name": "Kolin",
+        "x": 400.0,
+        "y": 280.0
+      },
+      "to": {
+        "id": "7fba4d9b-dc5a-464e-a2c0-b8be3fbaf396",
+        "name": "Kutna hora mesto",
+        "x": 451.0,
+        "y": 350.0
+      },
+      "cost": 86.6083136886985
+    },
+    {
+      "from": {
+        "id": "7fba4d9b-dc5a-464e-a2c0-b8be3fbaf396",
+        "name": "Kutna hora mesto",
+        "x": 451.0,
+        "y": 350.0
+      },
+      "to": {
+        "id": "7550b83f-4a4b-44f0-a912-2e77bfd68cfd",
+        "name": "Kolin",
+        "x": 400.0,
+        "y": 280.0
+      },
+      "cost": 86.6083136886985
+    },
+    {
+      "from": {
+        "id": "7fba4d9b-dc5a-464e-a2c0-b8be3fbaf396",
+        "name": "Kutna hora mesto",
+        "x": 451.0,
+        "y": 350.0
+      },
+      "to": {
+        "id": "7550b83f-4a4b-44f0-a912-2e77bfd68cfd",
+        "name": "Kolin",
+        "x": 400.0,
+        "y": 280.0
+      },
+      "cost": 86.6083136886985
+    },
+    {
+      "from": {
+        "id": "7550b83f-4a4b-44f0-a912-2e77bfd68cfd",
+        "name": "Kolin",
+        "x": 400.0,
+        "y": 280.0
+      },
+      "to": {
+        "id": "7fba4d9b-dc5a-464e-a2c0-b8be3fbaf396",
+        "name": "Kutna hora mesto",
+        "x": 451.0,
+        "y": 350.0
+      },
+      "cost": 86.6083136886985
+    },
+    {
+      "from": {
+        "id": "7fba4d9b-dc5a-464e-a2c0-b8be3fbaf396",
+        "name": "Kutna hora mesto",
+        "x": 451.0,
+        "y": 350.0
+      },
+      "to": {
+        "id": "eca075bb-54fc-444a-9738-84f42a5ea12e",
+        "name": "Kutna hora",
+        "x": 456.0,
+        "y": 380.0
+      },
+      "cost": 30.4138126514911
+    },
+    {
+      "from": {
+        "id": "eca075bb-54fc-444a-9738-84f42a5ea12e",
+        "name": "Kutna hora",
+        "x": 456.0,
+        "y": 380.0
+      },
+      "to": {
+        "id": "7fba4d9b-dc5a-464e-a2c0-b8be3fbaf396",
+        "name": "Kutna hora mesto",
+        "x": 451.0,
+        "y": 350.0
+      },
+      "cost": 30.4138126514911
+    },
+    {
+      "from": {
+        "id": "eca075bb-54fc-444a-9738-84f42a5ea12e",
+        "name": "Kutna hora",
+        "x": 456.0,
+        "y": 380.0
+      },
+      "to": {
+        "id": "7fba4d9b-dc5a-464e-a2c0-b8be3fbaf396",
+        "name": "Kutna hora mesto",
+        "x": 451.0,
+        "y": 350.0
+      },
+      "cost": 30.4138126514911
+    },
+    {
+      "from": {
+        "id": "7fba4d9b-dc5a-464e-a2c0-b8be3fbaf396",
+        "name": "Kutna hora mesto",
+        "x": 451.0,
+        "y": 350.0
+      },
+      "to": {
+        "id": "eca075bb-54fc-444a-9738-84f42a5ea12e",
+        "name": "Kutna hora",
+        "x": 456.0,
+        "y": 380.0
+      },
+      "cost": 30.4138126514911
+    },
+    {
+      "from": {
+        "id": "78f03a6a-c1e7-4a48-b184-4e8e0a38f2b0",
+        "name": "Nymburk",
+        "x": 210.0,
+        "y": 225.0
+      },
+      "to": {
+        "id": "fc01f1f2-491b-43d6-a47e-fb0b0d85812c",
+        "name": "Lysa Nad Labem",
+        "x": 108.0,
+        "y": 300.0
+      },
+      "cost": 126.60568707605516
+    },
+    {
+      "from": {
+        "id": "fc01f1f2-491b-43d6-a47e-fb0b0d85812c",
+        "name": "Lysa Nad Labem",
+        "x": 108.0,
+        "y": 300.0
+      },
+      "to": {
+        "id": "78f03a6a-c1e7-4a48-b184-4e8e0a38f2b0",
+        "name": "Nymburk",
+        "x": 210.0,
+        "y": 225.0
+      },
+      "cost": 126.60568707605516
+    },
+    {
+      "from": {
+        "id": "fc01f1f2-491b-43d6-a47e-fb0b0d85812c",
+        "name": "Lysa Nad Labem",
+        "x": 108.0,
+        "y": 300.0
+      },
+      "to": {
+        "id": "78f03a6a-c1e7-4a48-b184-4e8e0a38f2b0",
+        "name": "Nymburk",
+        "x": 210.0,
+        "y": 225.0
+      },
+      "cost": 126.60568707605516
+    },
+    {
+      "from": {
+        "id": "78f03a6a-c1e7-4a48-b184-4e8e0a38f2b0",
+        "name": "Nymburk",
+        "x": 210.0,
+        "y": 225.0
+      },
+      "to": {
+        "id": "fc01f1f2-491b-43d6-a47e-fb0b0d85812c",
+        "name": "Lysa Nad Labem",
+        "x": 108.0,
+        "y": 300.0
+      },
+      "cost": 126.60568707605516
+    },
+    {
+      "from": {
+        "id": "78f03a6a-c1e7-4a48-b184-4e8e0a38f2b0",
+        "name": "Nymburk",
+        "x": 210.0,
+        "y": 225.0
+      },
+      "to": {
+        "id": "dd6c988c-1bf2-48c0-b999-577a2d50dbbb",
+        "name": "Prerov Nad Labem",
+        "x": 108.0,
+        "y": 365.0
+      },
+      "cost": 173.216627377397
+    },
+    {
+      "from": {
+        "id": "dd6c988c-1bf2-48c0-b999-577a2d50dbbb",
+        "name": "Prerov Nad Labem",
+        "x": 108.0,
+        "y": 365.0
+      },
+      "to": {
+        "id": "78f03a6a-c1e7-4a48-b184-4e8e0a38f2b0",
+        "name": "Nymburk",
+        "x": 210.0,
+        "y": 225.0
+      },
+      "cost": 173.216627377397
+    },
+    {
+      "from": {
+        "id": "dd6c988c-1bf2-48c0-b999-577a2d50dbbb",
+        "name": "Prerov Nad Labem",
+        "x": 108.0,
+        "y": 365.0
+      },
+      "to": {
+        "id": "78f03a6a-c1e7-4a48-b184-4e8e0a38f2b0",
+        "name": "Nymburk",
+        "x": 210.0,
+        "y": 225.0
+      },
+      "cost": 173.216627377397
+    },
+    {
+      "from": {
+        "id": "78f03a6a-c1e7-4a48-b184-4e8e0a38f2b0",
+        "name": "Nymburk",
+        "x": 210.0,
+        "y": 225.0
+      },
+      "to": {
+        "id": "dd6c988c-1bf2-48c0-b999-577a2d50dbbb",
+        "name": "Prerov Nad Labem",
+        "x": 108.0,
+        "y": 365.0
+      },
+      "cost": 173.216627377397
+    },
+    {
+      "from": {
+        "id": "fc01f1f2-491b-43d6-a47e-fb0b0d85812c",
+        "name": "Lysa Nad Labem",
+        "x": 108.0,
+        "y": 300.0
+      },
+      "to": {
+        "id": "59d0dd7c-514e-4696-9361-80e1a0b87f11",
+        "name": "Praha Hl.n",
+        "x": 50.0,
+        "y": 287.0
+      },
+      "cost": 59.43904440685432
+    },
+    {
+      "from": {
+        "id": "59d0dd7c-514e-4696-9361-80e1a0b87f11",
+        "name": "Praha Hl.n",
+        "x": 50.0,
+        "y": 287.0
+      },
+      "to": {
+        "id": "fc01f1f2-491b-43d6-a47e-fb0b0d85812c",
+        "name": "Lysa Nad Labem",
+        "x": 108.0,
+        "y": 300.0
+      },
+      "cost": 59.43904440685432
+    },
+    {
+      "from": {
+        "id": "59d0dd7c-514e-4696-9361-80e1a0b87f11",
+        "name": "Praha Hl.n",
+        "x": 50.0,
+        "y": 287.0
+      },
+      "to": {
+        "id": "fc01f1f2-491b-43d6-a47e-fb0b0d85812c",
+        "name": "Lysa Nad Labem",
+        "x": 108.0,
+        "y": 300.0
+      },
+      "cost": 59.43904440685432
+    },
+    {
+      "from": {
+        "id": "fc01f1f2-491b-43d6-a47e-fb0b0d85812c",
+        "name": "Lysa Nad Labem",
+        "x": 108.0,
+        "y": 300.0
+      },
+      "to": {
+        "id": "59d0dd7c-514e-4696-9361-80e1a0b87f11",
+        "name": "Praha Hl.n",
+        "x": 50.0,
+        "y": 287.0
+      },
+      "cost": 59.43904440685432
+    },
+    {
+      "from": {
+        "id": "dd6c988c-1bf2-48c0-b999-577a2d50dbbb",
+        "name": "Prerov Nad Labem",
+        "x": 108.0,
+        "y": 365.0
+      },
+      "to": {
+        "id": "59d0dd7c-514e-4696-9361-80e1a0b87f11",
+        "name": "Praha Hl.n",
+        "x": 50.0,
+        "y": 287.0
+      },
+      "cost": 97.20082304178294
+    },
+    {
+      "from": {
+        "id": "59d0dd7c-514e-4696-9361-80e1a0b87f11",
+        "name": "Praha Hl.n",
+        "x": 50.0,
+        "y": 287.0
+      },
+      "to": {
+        "id": "dd6c988c-1bf2-48c0-b999-577a2d50dbbb",
+        "name": "Prerov Nad Labem",
+        "x": 108.0,
+        "y": 365.0
+      },
+      "cost": 97.20082304178294
+    },
+    {
+      "from": {
+        "id": "59d0dd7c-514e-4696-9361-80e1a0b87f11",
+        "name": "Praha Hl.n",
+        "x": 50.0,
+        "y": 287.0
+      },
+      "to": {
+        "id": "dd6c988c-1bf2-48c0-b999-577a2d50dbbb",
+        "name": "Prerov Nad Labem",
+        "x": 108.0,
+        "y": 365.0
+      },
+      "cost": 97.20082304178294
+    },
+    {
+      "from": {
+        "id": "dd6c988c-1bf2-48c0-b999-577a2d50dbbb",
+        "name": "Prerov Nad Labem",
+        "x": 108.0,
+        "y": 365.0
+      },
+      "to": {
+        "id": "59d0dd7c-514e-4696-9361-80e1a0b87f11",
+        "name": "Praha Hl.n",
+        "x": 50.0,
+        "y": 287.0
+      },
+      "cost": 97.20082304178294
+    },
+    {
+      "from": {
+        "id": "e9221307-805a-4ea9-9987-8226ea4c3c67",
+        "name": "Caslav",
+        "x": 564.0,
+        "y": 322.0
+      },
+      "to": {
+        "id": "7550b83f-4a4b-44f0-a912-2e77bfd68cfd",
+        "name": "Kolin",
+        "x": 400.0,
+        "y": 280.0
+      },
+      "cost": 169.29264603047588
+    },
+    {
+      "from": {
+        "id": "7550b83f-4a4b-44f0-a912-2e77bfd68cfd",
+        "name": "Kolin",
+        "x": 400.0,
+        "y": 280.0
+      },
+      "to": {
+        "id": "e9221307-805a-4ea9-9987-8226ea4c3c67",
+        "name": "Caslav",
+        "x": 564.0,
+        "y": 322.0
+      },
+      "cost": 169.29264603047588
+    }
+  ]
+}
